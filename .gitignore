@@ -1,0 +1,6 @@
+*.txt
+add.zig
+libadd.*
+*.tar.xz
+/zig-cache
+/zig-out
